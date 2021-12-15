@@ -19,7 +19,6 @@ def linear_fuel_function(crab_position: int, goal_position: int) -> int:
 def optimal_crab_fuel(crabs: List[int], fuel_function: Callable[[int, int], int]) -> int:
 
     min_crab, max_crab = min(crabs), max(crabs)
-
     min_fuel = None
 
     for position in range(min_crab, max_crab):
