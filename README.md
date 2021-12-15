@@ -11,6 +11,7 @@ Python 3.10
 ```
 year/
   └ day/
+    ├ example.txt (optional)
     ├ input.txt
     └ solve.py
 ```
