@@ -11,7 +11,7 @@ def lanternfish_expansion(line: List[int], days: int = 18) -> int:
     for fish in line:
         lantern[int(fish)] += 1
 
-    for day in range(days):
+    for _ in range(days):
         lantern = [
             lantern[1],
             lantern[2],
