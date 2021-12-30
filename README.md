@@ -1,6 +1,6 @@
 # tselmek's Advent of Code
 
-Repository of my partitipcation to the Advent of Code.
+Repository of my participation to the Advent of Code.
 
 ## Requirements
 
