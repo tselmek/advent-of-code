@@ -15,3 +15,9 @@ year/
     ├ input.txt
     └ solve.py
 ```
+
+## Completeness
+
+| Year | Stars                                                                                                                                                                                                                                                                                                                                                                    |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2021 | :yellow_heart: :yellow_heart: :yellow_heart: :blue_heart: :yellow_heart: :yellow_heart: :yellow_heart: :black_heart: :yellow_heart: :yellow_heart: :yellow_heart: :black_heart: :yellow_heart: :yellow_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :yellow_heart: :black_heart: |
