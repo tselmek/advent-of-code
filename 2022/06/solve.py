@@ -1,5 +1,3 @@
-from typing import List, Tuple
-
 
 lines = [line.rstrip("\n") for line in open("input.txt")]
 
